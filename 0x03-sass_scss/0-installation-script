@@ -1,0 +1,6 @@
+I installed sass globally using the command:
+npm install -g sass. The version 3.7.4 is depricated  so I installed the latest version
+I installed Sass globally using the command:
+npm install -g sass
+
+The version 3.7.4 is deprecated, so I installed the latest version instead.
